@@ -10,3 +10,5 @@ IAM roles and other dependencies via input variables
 **Benifit to configure ecs using terraform**:
 Using ECS with Terraform brings the power of containerization and the discipline of Infrastructure as Code together. It enables fast, scalable, secure, and repeatable cloud-native deployments.
 
+**Code File:** 
+https://github.com/lovearora337/terraform-aws/blob/main/Code
